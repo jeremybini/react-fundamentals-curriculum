@@ -1,0 +1,22 @@
+.container {
+	margin: auto;
+	width: 100%;
+	height: 100%;
+}
+
+.col-sm-12 {
+	padding: 0;
+}
+
+.weather-forecast {
+	display: inline;
+}
+
+.weather-icon {
+	width: 80px;
+	height: 80px;
+}
+
+.inline {
+	display: block;
+}
